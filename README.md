@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Sourashis
 
-<!--
-**sourashisX3/sourashisX3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android & Flutter Developer | Java | Kotlin | Dart |
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Sourashis' GitHub stats](https://github-readme-stats.vercel.app/api?username=sourashisX3&show_icons=true&theme=radical)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sourashisX3&theme=radical)
