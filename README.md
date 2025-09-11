@@ -7,7 +7,6 @@ Android & Flutter Developer | Java | Kotlin | Dart |
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-0171C5?logo=data:image/png;base64,<base64-of-image>&logoColor=white)
 
 ### GitHub Stats
 ![Sourashis' GitHub stats](https://github-readme-stats.vercel.app/api?username=sourashisX3&show_icons=true&theme=radical)
