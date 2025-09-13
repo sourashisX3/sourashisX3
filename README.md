@@ -8,7 +8,7 @@
 ---
 
 <!-- Technologies & Tools -->
-## <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/animated/blue/tools.gif" width="40" /> Technologies & Tools  
+### Technologies & Tools  
 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -18,7 +18,7 @@
 ---
 
 <!-- Coding Profiles -->
-## <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/animated/blue/code.gif" width="40" /> Coding Profiles  
+### Coding Profiles  
 
 <a href="https://leetcode.com/u/sourashisX3/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -27,21 +27,21 @@
 ---
 
 <!-- GitHub Stats -->
-## <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/animated/blue/stats.gif" width="40" /> GitHub Stats  
+### GitHub Stats  
 
 <img src="https://github-readme-stats.vercel.app/api?username=sourashisX3&show_icons=true&theme=blueberry&hide_border=true&bg_color=0D1117&title_color=1E90FF&icon_color=1E90FF"/>
 
 ---
 
 <!-- Streak Stats -->
-## <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/animated/blue/flame.gif" width="40" /> Streak Stats  
+### Streak Stats  
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sourashisX3&theme=blueberry&hide_border=true&background=0D1117&ring=1E90FF&fire=00BFFF&currStreakLabel=00BFFF"/>
 
 ---
 
 <!-- Connect with Me -->
-## <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/animated/blue/connect.gif" width="40" /> Connect with Me  
+### Connect with Me  
 
 <a href="https://www.linkedin.com/in/sourashis-das-746921285/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
