@@ -11,9 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sourashis das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourashis das" height="30" width="40" /></a>
-<a href="https://fb.com/sourashis das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sourashis das" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sourashisX3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourashisX3" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sourashis-das-746921285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sourashis Das" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/sourashisX3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourashisX3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
